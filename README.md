@@ -1,1 +1,3 @@
 # mega124
+
+kicad
